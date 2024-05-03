@@ -16,4 +16,8 @@ The MCD64A1 data was used to locate the fire point and non-fire point position, 
 `LOGISTIC_MODEL`:  Carry out Logistic regression and draw ROC curve. The AUC is calculated to evaluate the accuracy of the model. The weight coefficients will be saved as txt files.<br>
 
 # Pay attention:  
-`Before you running main.m, please check the data for relevance and significance to reduce the redundancy of the model and improve its accuracy!!!`
+`Before you running main.m, please check the data for relevance and significance to reduce the redundancy of the model and improve its accuracy!!!`<br>
+The MCD64A1 files' naming rule must be like “20140101”.<br>
+The FMC files' naming rule must be like “2014001_FMC_025”.<br>
+The MCD64A1 files' naming rule must be like “FFL_20140101_sichuan”.<br>
+
